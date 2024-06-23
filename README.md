@@ -30,3 +30,12 @@ You can install these packages using pip:
 
 ```sh
 pip install pandas soundfile numpy librosa scikit-learn matplotlib seaborn
+```
+
+Clone the Repository:
+```sh
+git clone https://github.com/PiyushSharma0/SpeechEmotionRecogniser.git
+cd SpeechEmotionRecogniser
+```
+
+## Confusion Matrix
