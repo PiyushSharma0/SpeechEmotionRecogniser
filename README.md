@@ -39,3 +39,4 @@ cd SpeechEmotionRecogniser
 ```
 
 ## Confusion Matrix
+![Confusion Matrix](Confusion_Matrix.png)
