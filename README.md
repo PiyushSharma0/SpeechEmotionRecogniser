@@ -8,7 +8,11 @@ SpeechEmotionRecogniser is a machine learning project designed to identify emoti
 
 - **Emotion Detection**: Identifies and classifies speech into one of four emotions.
 - **Model**: Utilizes `MLPClassifier` for classification.
-- **Dataset**: RAVDESS, with a focus on four specific emotions.
+- **Dataset**: RAVDESS, with a focus on four specific emotions, those being --
+- *Neutral*
+- *Happy*
+- *Fearful*
+- *Disgust*
 
 ## Installation
 
