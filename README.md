@@ -40,3 +40,11 @@ cd SpeechEmotionRecogniser
 
 ## Confusion Matrix
 ![Confusion Matrix](Confusion_Matrix.png)
+
+## Usage
+```sh
+cd SpeechEmotionRecogniser
+```
+```sh
+python testingInterface.py
+```
