@@ -48,4 +48,4 @@ cd SpeechEmotionRecogniser
 ```sh
 python testingInterface.py
 ```
-![Demonstration](demonstration.png)
+![Demonstration](demonstration.png) ![Demonstration2](demonstration2.png)
